@@ -1,4 +1,4 @@
-<p>Hey Suns, smile bright today!</p>
+<p>Hey Suns, smile bright today :)!</p>
 <!DOCTYPE html>
 <html>
    <head>
