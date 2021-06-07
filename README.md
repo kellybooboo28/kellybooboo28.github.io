@@ -3,7 +3,7 @@
 <html>
    <head>
       <title>HTML Meta Tag</title>
-      <meta http-equiv = "refresh" content = "3; https://oakeyclubsuns.wixsite.com/2022" />
+      <meta http-equiv = "refresh" content = "0; https://oakeyclubsuns.wixsite.com/2022" />
    </head>
    <body>
       <p>Redirecting to another URL</p>
